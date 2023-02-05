@@ -7,7 +7,7 @@
 </a>
 
 <span style="color:grey">
-          클릭시 이동
+\          클릭시 이동
 </span>
 
 
