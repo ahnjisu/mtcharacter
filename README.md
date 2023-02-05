@@ -1,5 +1,9 @@
 
+
 # 22-1 모웹프 final_term_project
+
+</br>
+</br>
 
 각 지역의 유명 마스코트를 주제로 한 **나와 닮은 지역캐릭터 테스트**
 
@@ -7,6 +11,8 @@
 <img src="https://user-images.githubusercontent.com/71385038/216827458-7120897d-627b-413c-a1d3-cd9ce03df4d3.png" width="550"/>
 </a>
 
+</br>
+</br>
 
 
 
@@ -18,7 +24,8 @@
 1. 버튼, 프로그레스 바, 화면 레이아웃 등에 부트스트랩을 이용하여 깔끔한 UI 구축하였다. 프로그레스 바를 통해 현재 어느정도 심리테스트가 진행되었는지 알 수 있다.
 
 2. 최근 각광받고 있는 ‘지역 캐릭터’라는 주제로 테스트를 만들어 이용자로 하여금 흥미를 유발할 수 있다.  
-
+</br>
+</br>
 
 
 
@@ -30,8 +37,11 @@
 - '테스트 시작!' 버튼을 누르면 테스트 Q&A 화면이 나타난다.  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71385038/216829503-24c55d82-20d2-4016-8632-2554b44edab8.png" width="350" height="550"/>
+<img src="https://user-images.githubusercontent.com/71385038/216829503-24c55d82-20d2-4016-8632-2554b44edab8.png" width="400" height="600"/>
 </p>  
+
+</br>
+</br>
 
 ### 화면 2) 테스트 Q&A 화면
 
@@ -43,6 +53,9 @@
  <img src="https://user-images.githubusercontent.com/71385038/216828446-45e57f91-d537-41e4-a38f-cc6663f6f1fc.png" width="350" height="500"/> <img src="https://user-images.githubusercontent.com/71385038/216828492-9699521d-80f5-41fc-ac99-7876b4d6818a.png" width="350" height="500"/>
  </p>
 
+</br>
+</br>
+
 ### 화면 3) 테스트 결과 화면
 
 - 총 8가지의 결과로 이루어져 있으며 테스트 결과를 바탕으로 결과 캐릭터의 이미지, 이름, 설명이 창에 띄워진다.  
@@ -50,3 +63,6 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71385038/216829393-d232d94d-494d-4514-86c6-2e19723c6a52.png" width="300" height="450"/> <img src="https://user-images.githubusercontent.com/71385038/216829422-894bba03-00ad-4252-a9f2-5cafdad3da40.png" width="300" height="450"/> <img src="https://user-images.githubusercontent.com/71385038/216829457-aaae362e-e638-43b6-8068-126cd43ff594.png" width="300" height="450"/>
  </p>
+
+</br>
+</br>
