@@ -6,10 +6,8 @@
 <img src="https://user-images.githubusercontent.com/71385038/216827458-7120897d-627b-413c-a1d3-cd9ce03df4d3.png" width="400"/>
 </a>
 
-<span style="color:gray">
-
-클릭시 이동
-
+<span style="color:grey">
+          클릭시 이동
 </span>
 
 
