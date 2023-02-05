@@ -28,7 +28,7 @@
 - 테스트에 대한 간단한 설명과 함께 테스트 시작 버튼이 위치해있다.
 - **테스트 시작!** 버튼을 누르면 테스트 Q&A 화면이 나타난다.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71385038/216828142-76ca884b-2b2a-4c98-ba68-71506942f2fe.png" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/71385038/216829503-24c55d82-20d2-4016-8632-2554b44edab8.png" width="300" height="400"/>
 </p>
 
 화면 2) 테스트 Q&A 화면
@@ -45,7 +45,6 @@
 
 - 총 8가지의 결과로 이루어져 있으며 테스트 결과를 바탕으로 결과 캐릭터의 이미지, 이름, 설명이 창에 띄워진다.
 
-
 <p align="center">
- <img src="https://user-images.githubusercontent.com/71385038/216828647-036dba14-f170-4bff-8d08-b030f92c3c15.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/71385038/216828856-8ffc0260-df7e-4b0b-abde-9761e9577869.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/71385038/216828652-00047ce3-9118-4de2-938e-04bb0ab24fe9.png" width="300" height="400"/>
+ <img src="https://user-images.githubusercontent.com/71385038/216829393-d232d94d-494d-4514-86c6-2e19723c6a52.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/71385038/216829422-894bba03-00ad-4252-a9f2-5cafdad3da40.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/71385038/216829457-aaae362e-e638-43b6-8068-126cd43ff594.png" width="300" height="400"/>
  </p>
