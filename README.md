@@ -3,10 +3,7 @@
 # 22-1 모웹프 final_term_project
 
 </br>
-<p align="center">
- 각 지역의 유명 마스코트를 주제로 한 <strong>나와 닮은 지역캐릭터 테스트</strong>
- 
-</p>
+ ## 각 지역의 유명 마스코트를 주제로 한 <strong>나와 닮은 지역캐릭터 테스트</strong>
 <p align="center">
 <a href="https://mycharacter.netlify.app/">
 <img src="https://user-images.githubusercontent.com/71385038/216827458-7120897d-627b-413c-a1d3-cd9ce03df4d3.png" width="550"/>
