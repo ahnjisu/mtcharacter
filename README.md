@@ -4,12 +4,11 @@
 
 </br>
 
-각 지역의 유명 마스코트를 주제로 한 **나와 닮은 지역캐릭터 테스트**
-
-
 <a href="https://mycharacter.netlify.app/">
 <img src="https://user-images.githubusercontent.com/71385038/216827458-7120897d-627b-413c-a1d3-cd9ce03df4d3.png" width="550"/>
 </a>
+
+각 지역의 유명 마스코트를 주제로 한 **나와 닮은 지역캐릭터 테스트**
 
 </br>
 </br>
