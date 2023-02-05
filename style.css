@@ -1,0 +1,133 @@
+/* 전체 */
+body {
+    background-color: #FFFFFF;
+    font-family: 'Jua', sans-serif;
+    }
+    
+article {
+    display: flex;
+    flex-direction: column;
+}
+header {
+	width: 100%; 
+	height: 53px; 
+	background-color: #fff;
+	z-index: 1;
+	border-bottom: 1px solid #e8e8e8;
+}
+
+strong {
+	font-size: 40px;
+	color: #F488B0;
+
+}
+
+
+
+.logo{
+	width:141px;
+	height: auto;
+	display: block;
+	margin:0 auto;
+}
+
+/* 시작화면 */
+.question {
+    display: none;
+}
+.main-title {
+    font-size: 40px;
+    color: #000000;
+}
+.main-img {
+	width: 350px;
+	margin: 0 auto;
+}
+.sub-title {
+    font-size: 25px;
+    font-weight: 100;
+    color: #525764;
+}
+.start-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-start {
+    font-size: 25px;
+    color:#FFFFFF;
+    background-color: #F488B0;
+    border : #E8E8E8;
+}
+.btn-start, .btn-start:visited, .btn-start:hover, .btn-start:active {
+    font-size: 25px;
+    color:#FFFFFF;
+    background-color: #F488B0;
+    border : #E8E8E8;
+
+}
+.btn-start:active, .btn-start:focus {
+    background-color: #C0C0C0 !important;
+    border:#e8e8e8 !important;
+    font-size: 25px;
+    color:#FFFFFF;
+}
+
+/* 문제 화면 */
+.btn-answer, .btn-answer:visited, .btn-answer:hover, .btn-answer:active, .btn-answer:focus {
+    background-color: #FFFFFF;
+    border:#e8e8e8;
+    width: 300px;
+    margin: 0 auto;
+    font-size: 15px;
+    color: #F488B0;
+}
+
+.btn-answer:hover {
+    background-color: #F8A7CA !important;
+    border:#e8e8e8 !important;
+    width: 300px;
+    margin: 0 auto;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.progress-bar {
+    background-color: #F488B0;
+}
+
+.progress {
+    background-color: #e8e8e8;
+}
+
+.question-content {
+    font-size: 23px;
+    color: #525764;
+}
+
+/* 결과 화면 */
+.result-message {        
+	color: #7C7C7C;
+	margin: 0 auto;
+    font-size: 25px;
+}
+.result-character {
+    font-size: 20px;
+    color: #F8A7CA;
+    letter-spacing: 1px;
+}
+.result-explain {
+    font-size: 19px;
+    color: #525764;
+    word-spacing: 1.5px; 
+    letter-spacing: 1px;
+}
+
+.result {
+    display: none;
+}
+#img {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
