@@ -28,8 +28,7 @@
 - 테스트에 대한 간단한 설명과 함께 테스트 시작 버튼이 위치해있다.
 - **테스트 시작!** 버튼을 누르면 테스트 Q&A 화면이 나타난다.
 
-![image02](https://user-images.githubusercontent.com/71385038/216828142-76ca884b-2b2a-4c98-ba68-71506942f2fe.png)
-
+<img src="https://user-images.githubusercontent.com/71385038/216828142-76ca884b-2b2a-4c98-ba68-71506942f2fe.png" width="300" height="100"/>
 
 화면 2) 테스트 Q&A 화면
 
