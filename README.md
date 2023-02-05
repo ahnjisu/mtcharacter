@@ -1,6 +1,6 @@
 
 
-# 22-1 모웹프 final_termproject
+# 22-1 모웹프 final_term_project
 
 </br>
 
