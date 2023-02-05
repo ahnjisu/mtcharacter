@@ -1,5 +1,7 @@
 # 22-1 모웹프 final_term_project
 각 지역의 유명 마스코트를 주제로 한 [**나와 닮은 지역캐릭터 테스트**](https://mycharacter.netlify.app/)
+![image](https://user-images.githubusercontent.com/71385038/216827242-de24ef0f-a58b-4a74-9da3-c58a834279bb.png)
+
 
 ## 설명
 **나와 닮은 지역캐릭터 테스트**를 자바스크립트, 부트스트랩 UI를 중점적으로 사용하여 구현하였다.
