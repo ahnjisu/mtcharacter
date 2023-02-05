@@ -1,3 +1,4 @@
+
 # 22-1 모웹프 final_term_project
 
 각 지역의 유명 마스코트를 주제로 한 **나와 닮은 지역캐릭터 테스트**
@@ -28,7 +29,7 @@
 - 테스트에 대한 간단한 설명과 함께 테스트 시작 버튼이 위치해있다.
 - **테스트 시작!** 버튼을 누르면 테스트 Q&A 화면이 나타난다.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71385038/216829503-24c55d82-20d2-4016-8632-2554b44edab8.png" width="300" height="400"/>
+<img src="https://user-images.githubusercontent.com/71385038/216829503-24c55d82-20d2-4016-8632-2554b44edab8.png" width="350" height="550"/>
 </p>
 
 화면 2) 테스트 Q&A 화면
@@ -38,7 +39,7 @@
 - 사용자가 답안을 선택하면 선택된 버튼의 색이 변경되어 나타난다.
  
  <p align="center">
- <img src="https://user-images.githubusercontent.com/71385038/216828446-45e57f91-d537-41e4-a38f-cc6663f6f1fc.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/71385038/216828492-9699521d-80f5-41fc-ac99-7876b4d6818a.png" width="300" height="400"/>
+ <img src="https://user-images.githubusercontent.com/71385038/216828446-45e57f91-d537-41e4-a38f-cc6663f6f1fc.png" width="400" height="500"/> <img src="https://user-images.githubusercontent.com/71385038/216828492-9699521d-80f5-41fc-ac99-7876b4d6818a.png" width="400" height="500"/>
  </p>
 
 화면 3) 테스트 결과 화면
